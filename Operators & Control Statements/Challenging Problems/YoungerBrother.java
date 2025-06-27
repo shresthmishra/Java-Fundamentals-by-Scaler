@@ -18,6 +18,6 @@ public class YoungerBrother {
     int thirdNum = sc.nextInt();
     int finalNum = additionOfNums / thirdNum;
     System.out.println("The final number is: " + finalNum);
-    sc.close();
+    sc.close()
     }
 }
