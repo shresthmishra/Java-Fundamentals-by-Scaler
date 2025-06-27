@@ -2,7 +2,7 @@
 
 
 
-Hello there! This repository is dedicated to me mastering the fundamentals of Java, through a course offered by Scaler.
+Hello there! This repository is dedicated to me learning and mastering the fundamentals of Java, through a course offered by Scaler.
 
 ---
 
