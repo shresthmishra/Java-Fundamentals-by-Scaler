@@ -21,5 +21,6 @@ public class SumofPositiveNumbers {
         }
         while (number >= 0);
         System.out.println("The Sum is: " + sum);
+        scanner.close();
     }
 }
