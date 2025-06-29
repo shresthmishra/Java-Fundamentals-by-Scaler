@@ -13,5 +13,6 @@ public class WhileLoop {
             result++;
         }
         System.out.println("The digit of the number is: " + result);
+        sc.close();
     }
 }
